@@ -7,3 +7,8 @@ CoreData with SwiftUI
 
 ## Step 2 :  Create a group "Data Model File"
 <img width="381" alt="Screenshot 2024-02-11 at 12 06 13 PM" src="https://github.com/TheAppWizard/iCalories-IndentlyTutorial/assets/70090469/7418d0bb-1bde-4d2b-ab84-0705ef22fba8">
+
+## Step 3 :  Add Entities"
+<img width="1107" alt="Screenshot 2024-02-11 at 12 08 09 PM" src="https://github.com/TheAppWizard/iCalories-IndentlyTutorial/assets/70090469/d6c6fe3b-ecff-4109-86bc-66b32c1d09a7">
+
+
