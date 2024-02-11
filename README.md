@@ -2,6 +2,8 @@
 
 This tutorial covers the implementation of CoreData with SwiftUI in your project.
 
+# Steps to Create Model
+
 ## Step 1: Create a "Data Model" Group
 ![Step 1 Screenshot](https://github.com/TheAppWizard/iCalories-IndentlyTutorial/assets/70090469/30ad885a-5c59-40df-877d-ed1acb7dd5d3.png)
 
