@@ -1,6 +1,6 @@
 # iCalories-IndentlyTutorial
 
-This tutorial covers the implementation of CoreData with SwiftUI in your project.
+This tutorial covers the implementation of CoreData with SwiftUI in your project. :)
 
 # Steps to Create Model
 
